@@ -1,4 +1,4 @@
-# testing
+# Testing
 
 A sample test repo.
 
